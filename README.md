@@ -1,6 +1,3 @@
-# socket-stream
-filter word contains error word from socket
-
 ## Run programming
 ```
 sbt clean package
